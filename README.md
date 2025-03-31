@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Vaibhav Chaudhari, a Developer 🚀 from India.
+## Hi, I'm Vaibhav Chaudhari, a Senior Full Stack Developer 🚀 from Pune, India.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
